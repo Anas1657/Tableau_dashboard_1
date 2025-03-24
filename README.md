@@ -1,4 +1,5 @@
-Screenshot 2025-02-24 122429.png
+![Screenshot 2025-02-24 122429](https://github.com/user-attachments/assets/fab8c8d6-f174-482f-93d3-9a7230fac3f6)
+
 # 📊 Daikibo Telemetry Data - Tableau Dashboard
 
 ## 📝 Project Overview
